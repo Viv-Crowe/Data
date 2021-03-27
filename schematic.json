@@ -9,7 +9,7 @@
     { "id": 7, "symbol": "M_{Phi_I}", "name": "Inflammatory Macrophages", "group": "Cell", "nodesize": 20 },
     { "id": 8, "symbol": "M", "name": "Monocytes", "group": "Cell", "nodesize": 20 },
     { "id": 9, "symbol": "N", "name": "Neutrophils", "group": "Cell", "nodesize": 20 },
-    { "id": 10, "symbol": "T", "name": "CD^+ T cells", "group": "Cell", "nodesize": 20 },
+    { "id": 10, "symbol": "T", "name": "CD8+ T cells", "group": "Cell", "nodesize": 20 },
     { "id": 11, "symbol": "L_U", "name": "Unbound IL-6", "group": "Cytokine", "nodesize": 20 },
     { "id": 12, "symbol": "L_B", "name": "Bound IL-6", "group": "Cytokine", "nodesize": 20 },
     { "id": 13, "symbol": "G_U", "name":"Unbound GM-CSF", "group": "Cytokine", "nodesize": 20 },
